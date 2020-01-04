@@ -49,8 +49,8 @@ var querystring = require('querystring'); //解析如‘a=1&b=2’为对象
 
 
 
-var AppID = 'wx6fe7dbc76851e9b2';
-var AppSecret = 'cb2e145a809840f5064fdf47d60d1f29';
+var AppID = 'wx6fe7d*****51e9b2';
+var AppSecret = 'cb2e145a8******fdf47d60d1f29';
 
 
 
