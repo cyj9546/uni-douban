@@ -1,0 +1,40 @@
+.search-block{
+	display: flex;
+	flex-direction: row;
+	padding: 0  20upx 20upx 30upx;
+	position: fixed;
+	top: 100;
+	z-index: 100;
+}
+.search-wrapper-ico{
+	background-color: #eaeaea;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.img-ico{
+	margin-top: 7upx;
+	width: 40upx;
+	height: 40upx;
+}
+.search-text{
+	font-size: 14px;
+	background-color: #eaeaea;
+	height: 40upx;
+	width: 650upx;
+	
+}
+.poster {
+	width: 200upx;
+	height: 270upx;
+}
+.movie-list {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	padding: 10upx 10upx 0upx 10upx;
+}
+.movie-wapper {
+	padding: 10upx 20upx; 
+}

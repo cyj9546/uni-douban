@@ -1,0 +1,50 @@
+{
+  "pages": [
+    "pages/me/me",
+    "pages/index/index",
+    "pages/movie/movie",
+    "pages/cover/cover",
+    "pages/registLogin/registLogin",
+    "pages/meInfo/meInfo",
+    "pages/meFace/meFace",
+    "pages/faceCrop/faceCrop",
+    "pages/meNickname/meNickname",
+    "pages/meBirthday/meBirthday",
+    "pages/sex/sex"
+  ],
+  "window": {
+    "navigationBarTitleText": "电影",
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#bfbfbf",
+    "selectedColor": "#515151",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/movice.png",
+        "selectedIconPath": "static/movice_normal.png"
+      },
+      {
+        "pagePath": "pages/me/me",
+        "text": "我的",
+        "iconPath": "static/me.png",
+        "selectedIconPath": "static/me_normal.png"
+      }
+    ]
+  },
+  "nvueCompiler": "weex",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "mywebapp",
+  "compilerVersion": "2.3.6",
+  "usingComponents": {}
+}
