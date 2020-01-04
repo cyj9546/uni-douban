@@ -1,0 +1,82 @@
+{
+    "data": [{
+        "id": 15,
+        "title":" 大侦探皮卡丘 (2019) ",
+        "type":"喜剧 / 动画 / 奇幻 / 冒险",
+        "scoe":"6.8",
+        "date":"上映日期: 2019-05-10(美国/中国大陆)",
+      "image_url":"https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3145318554,3604693995&fm=11&gp=0.jpg"
+    },
+    {
+        "id": 0,
+        "title":"复仇者联盟4：终局之战",
+        "type":"动作 / 科幻 / 奇幻 / 冒险",
+        "scoe":"8.6",
+        "date":"2019-04-24(中国大陆) / 2019-04-26(美国)",
+        "image_url":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557815507427&di=6e99e1a1f050e14eab927b90a7883ce3&imgtype=0&src=http%3A%2F%2Fwww.guangyuanol.cn%2Fuploads%2Fallimg%2F190404%2F151125A63-2.jpg"
+      },
+      {
+        "id": 17,
+        "title":"何以为家",
+        "type":"剧情",
+        "scoe":"9.0",
+        "date":"上映日期: 2019-04-29(中国大陆) / 2018-05-17(戛纳电影节) / 2018-09-20(黎巴嫩)",
+        "image_url":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557815656985&di=d26d63642d4692ab36a239ea77406b85&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn10112%2F452%2Fw1800h2652%2F20190416%2F06ea-hvsckth5287572.jpg"
+      },
+      {
+        "id": 4,
+        "title":"一个母亲的复仇",
+        "type":"剧情 / 犯罪",
+        "scoe":"6.7",
+        "date":"上映日期: 2019-05-10(中国大陆) / 2017-07-07(印度)",
+        "image_url":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557815719490&di=7053dbbc7b4aba842ea68ab49c8252a0&imgtype=0&src=http%3A%2F%2Fzkres1.myzaker.com%2F201904%2F5cb7d2a277ac6466834e8544_320.jpg"
+      },
+      {
+        "id": 5,
+        "title":"下一任：前任",
+        "type":"爱情",
+        "scoe":"2.6",
+        "date":"上映日期: 2019-05-01(中国大陆)",
+        "image_url":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557815769920&di=187c07b19665ed75273aa028951f4094&imgtype=0&src=http%3A%2F%2Fcms-bucket.ws.126.net%2F2019%2F04%2F28%2Fc72350334ca84f23943a66980e1d6018.jpeg"
+      },
+      {
+        "id": 6,
+        "title":"爱情公寓 ",
+        "type":"喜剧 / 冒险",
+        "scoe":"3.1",
+        "date":"上映日期: 2018-08-10(中国大陆)",
+        "image_url":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1558009171988&di=777f2698c60e996696a25ac61b25f025&imgtype=0&src=http%3A%2F%2Fp0.qhimgs4.com%2Ft01ba30a4049a3e7924.jpg"
+      },
+      {
+        "id": 7,
+        "title":"罗马 Roma ",
+        "type":"剧情 / 家庭",
+        "scoe":"8.1",
+        "date":"上映日期: 2019-05-10(中国大陆) / 2018-08-30(威尼斯电影节) / 2018-12-14(美国)",
+        "image_url":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557815998602&di=3320feeb44ab2aa683319f8faa7ad3f6&imgtype=0&src=http%3A%2F%2Fpic4.zhimg.com%2F50%2Fv2-59e62dc95bf89c905feedc738efa9710_hd.jpg"
+      },
+      {
+        "id": 8,
+        "title":"雪暴 ",
+        "type":"动作 / 悬疑 / 犯罪",
+        "scoe":"6.3",
+        "date":"2019-04-30(中国大陆) / 2018-10-05(釜山电影节)",
+        "image_url":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557816045306&di=c97cc840d4b5b9802725258ce035961d&imgtype=0&src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F8329295648%2F1000"
+      },
+      {
+        "id": 9,
+        "title":"反贪风暴4",
+        "type":"动作 / 犯罪",
+        "scoe":"6.3",
+        "date":"2019-04-04(中国大陆)",
+        "image_url":"http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20190405/deade64effe9443894f5c1a58753be7f.jpeg"
+      },
+      {
+        "id": 10,
+        "title":"欢迎来北方",
+        "type":"剧情 / 喜剧",
+        "scoe":"7.2",
+        "date":"2019-05-10(中国大陆) / 2018-02-28(法国)",
+        "image_url":"http://www.shm.com.cn/ytrb/resfiles/2019-05/09/rb12b509c_5.jpg"
+      }
+]}

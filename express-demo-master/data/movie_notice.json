@@ -1,0 +1,34 @@
+{
+    "data": [{
+        "id": 1,
+        "title":"周恩来回延安",
+        "type":"剧情 / 历史",
+        "scoe":"0",
+        "date":"2019-05-15(中国大陆)",
+      "video_url":"https://www.chinafilm.com/ftp/u/cms/www/201904/29150936j285.mp4"
+    },
+    {
+        "id": 2,
+        "title":"海蒂和爷爷",
+        "type":"剧情 / 家庭 / 冒险",
+        "scoe":"9.1",
+        "date":"2019-05-16(中国大陆) / 2015-12-10(德国)",
+      "video_url":"https://www.chinafilm.com/ftp/u/cms/www/201904/22170042520z.mp4"
+    },
+    {
+        "id": 3,
+        "title":"企鹅公路",
+        "type":"",
+        "scoe":"7.9",
+        "date":"2019-05-17(中国大陆) / 2018-08-17(日本)",
+      "video_url":"https://www.chinafilm.com/ftp/u/cms/www/201904/241442023r9e.mp4"
+    },
+    {
+        "id": 4,
+        "title":"哥斯拉2：怪兽之王",
+        "type":"美国 / 动作 / 科幻 / 冒险",
+        "scoe":"6.8",
+        "date":"2019-05-31(美国/中国大陆) ",
+      "video_url":"https://www.chinafilm.com/ftp/u/cms/www/201902/26103255n35f.mp4"
+    }
+]}
